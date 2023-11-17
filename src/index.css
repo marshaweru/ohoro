@@ -1,4 +1,8 @@
 #root, html, body {
     height: 100vh;
 }
+
+body{
+    background: linear-gradient(135deg rgb(221, 152, 152) blue);
+}
 /*Above is the Basic css beautification*/
