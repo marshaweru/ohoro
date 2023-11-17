@@ -9,4 +9,6 @@ const App = () => {
     };
 }
 
+export default App;
+
 //Above is minimum configuration to run the app
