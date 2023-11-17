@@ -1,5 +1,6 @@
 //Add a basic react functional component
-import React from 'react';
+import React, { useEffect} from 'react';
+import alanBtn from '@alan-ai/alan-sdk-web';//Add alan to our app
 
 const App = () => {
     return (
